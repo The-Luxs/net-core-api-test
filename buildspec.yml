@@ -11,5 +11,3 @@ phases:
 artifacts:
   files:
     - TestApi/build_output/**/*
-    - scripts/**/*
-    - appspec.yml
